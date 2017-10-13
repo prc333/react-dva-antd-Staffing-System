@@ -1,0 +1,13 @@
+
+.normal {
+}
+.myForm{
+	width:70%;
+	margin: 30px auto;
+	padding: 80px;
+	border:1px solid #aaa;
+	box-shadow: 1px 1px 1px 1px #aaa;
+	border-radius:20px;
+	min-width:300px;
+	max-width:720px;
+}

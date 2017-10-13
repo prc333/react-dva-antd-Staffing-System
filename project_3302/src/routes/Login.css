@@ -1,0 +1,19 @@
+
+.normal {
+}
+:global(.login-form) {
+	margin: 0px auto;
+  	max-width: 300px;
+  	border:1px solid #aaa;
+  	box-shadow: 1px 1px 1px 1px #aaa;
+  	padding:40px;
+  	position: relative;
+  	top:100px;
+  	border-radius:10px;
+}
+:global( .login-form-forgot) {
+  float: right;
+}
+:global( .login-form-button) {
+  width: 100%;
+}
