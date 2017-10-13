@@ -8,7 +8,11 @@
 
 还需要启动mongodb数据库(/mongodb包含所需数据)
 
+启动项目：
+	1）文件夹（/react-dva-antd-Staffing-System）下，node app.js;
+	2)文件夹（/react-dva-antd-Staffing-System/project_3302）下 ,npm start
 
+http://localhost:8000
 
 工号:10001
 密码:123456
